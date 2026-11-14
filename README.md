@@ -3,12 +3,12 @@
 > **Épreuves écrites : jeudi 19 novembre 2026.** La composition dure 4 heures et a un coefficient 3.
 >
 > Chaque dossier contient deux fichiers :
-> - `fiche_revision.md`, à **mémoriser** (définitions, textes, chiffres, exemples, arguments, plan, auto-test) ;
-> - `composition.md`, une **copie modèle** d'environ 2 000 à 2 200 mots, soit environ **7 à 8 pages manuscrites**.
+> - `fiche_revision_<dossier>.md` (par exemple `fiche_revision_01_inegalites_territoriales.md`), à **mémoriser** (définitions, textes, chiffres, exemples, arguments, plan, auto-test) ;
+> - `composition_<dossier>.md`, une **copie modèle** d'environ 2 000 à 2 200 mots, soit environ **7 à 8 pages manuscrites**.
 
 ---
 
-## Les 14 thèmes
+## Les 15 thèmes
 
 | # | Thème | Sujet type |
 |---|---|---|
@@ -26,6 +26,9 @@
 | 12 | [Logement](12_logement/) | Les collectivités peuvent-elles encore garantir l'accès à un logement abordable ? |
 | 13 | [Économie et emploi](13_developpement_economique_emploi/) | Les collectivités ont-elles encore des leviers efficaces pour l'emploi ? |
 | 14 | [Risques et résilience](14_risques_resilience/) | Les collectivités peuvent-elles protéger les populations face aux crises ? |
+| 15 | [IA et transition écologique](15_ia_transition_ecologique/) *(sujet croisé)* | L'intelligence artificielle peut-elle être une alliée de la transition écologique des territoires ? |
+
+> **Sujets croisés** : les sujets du concours mêlent souvent plusieurs thèmes. Le fichier [`sujets_croises.md`](sujets_croises.md) propose **10 sujets transversaux**, chacun avec une accroche, une problématique et un plan détaillé : écologie et justice sociale, financement de la transition, qui décide de l'aménagement, ZAN et logement, numérique et égalité, vieillissement et canicules, etc.
 
 ---
 
@@ -75,6 +78,8 @@
 - **Catastrophes naturelles en 2026** : 294 communes reconnues après les inondations de février, 184 après l'épisode méditerranéen d'octobre.
 - **France Services** : 2 865 structures fin 2025, avec un objectif de 3 000 début 2027.
 - **« Territoires d'IA »** (Banque des Territoires, 21 mai 2026) : objectif de 100 000 agents utilisateurs d'ici 2030.
+- **Loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique** : les grands **data centers** peuvent devenir des **projets d'intérêt national majeur** ; un permis peut être refusé en cas de **tension structurelle sur l'eau**. La **contestation** des data centers s'organise à l'échelle nationale (pétition « Data centers partout, démocratie nulle part », octobre 2026).
+- **Plan ORSEC « chaleurs extrêmes »**, déclenché pour la première fois le **10 juillet 2026**.
 - **CNRACL** : la cotisation employeur augmente de 3 points par an de 2025 à 2028.
 - **Mal-logement** : plus de 4 millions de personnes (Fondation pour le logement des défavorisés, février 2026).
 - **SNU** mis en extinction au 1er janvier 2026, remplacé par le **service militaire volontaire**.
