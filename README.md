@@ -8,7 +8,7 @@
 
 ---
 
-## Les 15 thèmes
+## Les 16 thèmes
 
 | # | Thème | Sujet type |
 |---|---|---|
@@ -27,6 +27,7 @@
 | 13 | [Économie et emploi](13_developpement_economique_emploi/) | Les collectivités ont-elles encore des leviers efficaces pour l'emploi ? |
 | 14 | [Risques et résilience](14_risques_resilience/) | Les collectivités peuvent-elles protéger les populations face aux crises ? |
 | 15 | [IA et transition écologique](15_ia_transition_ecologique/) *(sujet croisé)* | L'intelligence artificielle peut-elle être une alliée de la transition écologique des territoires ? |
+| 16 | [IA et action publique locale](16_ia_action_publique_locale/) | L'intelligence artificielle peut-elle être un levier efficace de l'action publique locale ? *(la fiche propose 7 plans et 7 variantes de sujet)* |
 
 > **Sujets croisés** : les sujets du concours mêlent souvent plusieurs thèmes. Le fichier [`sujets_croises.md`](sujets_croises.md) propose **10 sujets transversaux**, chacun avec une accroche, une problématique et un plan détaillé : écologie et justice sociale, financement de la transition, qui décide de l'aménagement, ZAN et logement, numérique et égalité, vieillissement et canicules, etc.
 
@@ -78,6 +79,7 @@
 - **Catastrophes naturelles en 2026** : 294 communes reconnues après les inondations de février, 184 après l'épisode méditerranéen d'octobre.
 - **France Services** : 2 865 structures fin 2025, avec un objectif de 3 000 début 2027.
 - **« Territoires d'IA »** (Banque des Territoires, 21 mai 2026) : objectif de 100 000 agents utilisateurs d'ici 2030.
+- **IA dans les administrations** : rapport IGF-IGAS-IGA du 2 juillet 2026 (un agent public sur cinq exposé) ; plan « Notre IA » de l'État (16 juin 2026) ; baromètre Data Publica 2026 (56 % des collectivités de plus de 3 500 habitants ont un projet d'IA, 75 % une charte) ; obligations « haut risque » de l'AI Act reportées au 2 décembre 2027.
 - **Loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique** : les grands **data centers** peuvent devenir des **projets d'intérêt national majeur** ; un permis peut être refusé en cas de **tension structurelle sur l'eau**. La **contestation** des data centers s'organise à l'échelle nationale (pétition « Data centers partout, démocratie nulle part », octobre 2026).
 - **Plan ORSEC « chaleurs extrêmes »**, déclenché pour la première fois le **10 juillet 2026**.
 - **CNRACL** : la cotisation employeur augmente de 3 points par an de 2025 à 2028.
